@@ -15,11 +15,23 @@ export function getAdminApp() {
   }
 
   try {
+    let privateKey = process.env.FIREBASE_PRIVATE_KEY;
+    if (privateKey) {
+      // Remove surrounding quotes if they exist
+      if (privateKey.startsWith('"') && privateKey.endsWith('"')) {
+        privateKey = privateKey.slice(1, -1);
+      } else if (privateKey.startsWith("'") && privateKey.endsWith("'")) {
+        privateKey = privateKey.slice(1, -1);
+      }
+      // Replace escaped newlines with actual newlines
+      privateKey = privateKey.replace(/\\n/g, '\n');
+    }
+
     adminApp = initializeApp({
       credential: cert({
         projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
         clientEmail: process.env.FIREBASE_CLIENT_EMAIL,
-        privateKey: process.env.FIREBASE_PRIVATE_KEY?.replace(/\\n/g, '\n'),
+        privateKey: privateKey,
       }),
     });
     return adminApp;
