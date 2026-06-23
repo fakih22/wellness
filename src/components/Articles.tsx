@@ -35,7 +35,7 @@ const articles: Article[] = [
     date: '12 Mei 2026',
     image: '🥗',
     content: [
-      'Makan sehat bukan berarti menyiksa diri dengan pantangan yang panjang. Justru sebaliknya — ini tentang membangun kebiasaan kecil yang konsisten dan berkelanjutan.',
+      'Makan sehat bukan berarti menyiksa diri dengan pantangan yang panjang ya. Justru sebaliknya — ini tentang membangun kebiasaan kecil yang konsisten dan berkelanjutan.',
       'Penelitian menunjukkan bahwa orang yang makan dengan penuh kesadaran (mindful eating) cenderung memiliki berat badan lebih stabil dan tingkat stres lebih rendah dibanding mereka yang diet ketat.',
       'Kunci utamanya adalah variasi. Piring yang penuh warna — sayuran hijau, protein tanpa lemak, karbohidrat kompleks, dan lemak sehat — memberikan semua nutrisi yang dibutuhkan tubuhmu.',
       'Jangan lupa hidrasi. Banyak orang salah mengira rasa haus sebagai rasa lapar. Minum segelas air sebelum makan bisa membantu mengontrol porsi secara alami.',
