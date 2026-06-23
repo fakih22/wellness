@@ -84,7 +84,7 @@ export function Footer() {
             </p>
             {/* Contact Info */}
             <div className="space-y-3">
-              <a href="mailto:hello@vitality.app" className="flex items-center gap-2 text-sm text-gray-400 hover:text-white transition-colors">
+              <a href="mailto:hello@vitality.com" className="flex items-center gap-2 text-sm text-gray-400 hover:text-white transition-colors">
                 <Mail className="w-4 h-4" />
                 hello@vitality.app
               </a>
