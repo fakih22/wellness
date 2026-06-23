@@ -43,7 +43,7 @@ const articles: Article[] = [
     tips: [
       'Makan perlahan dan kunyah 20-30 kali per suapan',
       'Isi setengah piring dengan sayuran berwarna-warni',
-      'Pilih karbohidrat kompleks: nasi merah, oat, ubi',
+      'Pilih karbohidrat kompleks: nasi merah, oat, ubi unggu',
       'Batasi gula tambahan maksimal 25g per hari',
       'Sarapan dalam 1 jam setelah bangun tidur',
     ],
