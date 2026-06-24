@@ -125,7 +125,7 @@ const articles: Article[] = [
       'Praktikkan pernapasan 4-7-8 saat merasa overwhelmed',
       'Tulis 3 hal yang kamu syukuri setiap pagi',
       'Batasi konsumsi berita negatif',
-      'Luangkan waktu untuk hobi minimal 30 menit sehari',
+      'Luangkan waktu anda untuk hobi minimal 30 menit sehari',
       'Jangan ragu minta bantuan profesional jika perlu',
     ],
   },
