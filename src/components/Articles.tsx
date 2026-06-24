@@ -95,7 +95,7 @@ const articles: Article[] = [
       'Konsistensi jadwal tidur lebih penting dari durasi. Tidur dan bangun di jam yang sama setiap hari — termasuk akhir pekan — menjaga ritme sirkadian tetap stabil.',
     ],
     tips: [
-      'Matikan layar 1 jam sebelum tidur',
+      'Matikan layar 1 jam sebelum tidur ya',
       'Jaga suhu kamar 18-20°C',
       'Hindari kafein setelah pukul 14.00',
       'Buat rutinitas malam: mandi hangat, baca buku, meditasi',
