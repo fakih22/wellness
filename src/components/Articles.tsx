@@ -108,7 +108,7 @@ const articles: Article[] = [
     categoryColor: 'text-purple-700',
     categoryBg: 'bg-purple-100',
     icon: Brain,
-    title: 'Stres Bukan Musuh — Ini Cara Mengelolanya',
+    title: 'Stres Bukan Musuh — Ini Cara Mengelolanya dengan benar',
     excerpt: 'Sedikit stres itu normal dan bahkan berguna. Yang berbahaya adalah stres kronis yang tidak dikelola dengan baik.',
     author: 'Psikolog Andini Rahayu, M.Psi',
     readTime: '7 menit',
