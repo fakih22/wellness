@@ -116,7 +116,7 @@ const articles: Article[] = [
     date: '2 Mei 2026',
     image: '🧠',
     content: [
-      'Stres adalah respons alami tubuh terhadap tantangan. Dalam dosis kecil, stres justru meningkatkan fokus, produktivitas, dan kemampuan memecahkan masalah.',
+      'Stres adalah respons alami tubuh terhadap tantangan sehari-hari. Dalam dosis kecil, stres justru meningkatkan fokus, produktivitas, dan kemampuan memecahkan masalah.',
       'Masalah muncul ketika stres menjadi kronis — berlangsung terus-menerus tanpa jeda pemulihan. Ini yang memicu berbagai penyakit fisik dan mental jangka panjang.',
       'Teknik pernapasan 4-7-8 terbukti secara ilmiah mengaktifkan sistem saraf parasimpatik dalam hitungan menit: tarik napas 4 detik, tahan 7 detik, hembuskan 8 detik.',
       'Journaling atau menulis jurnal harian selama 10-15 menit terbukti mengurangi kecemasan dan membantu memproses emosi yang terpendam secara lebih sehat.',
